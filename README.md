@@ -1,3 +1,13 @@
+> [!WARNING]
+> **⚠️ This repository has moved.**
+> All active development has migrated to the official AllStak organization repository:
+>
+> **➡️ https://github.com/AllStak/allstak-otel**
+>
+> This repository is **archived and read-only**. Please file issues, open pull requests, and follow releases at the official location above.
+
+---
+
 # @allstak/otel
 
 **Send OpenTelemetry traces to AllStak with a single exporter.**
